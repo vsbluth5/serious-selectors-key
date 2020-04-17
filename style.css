@@ -34,7 +34,7 @@ div > img{
   border: solid grey thin;
 }
 
-selector_7{
+div > .cell{
   display: block;
   height: 50px;
   width: 50px;
@@ -44,7 +44,7 @@ selector_7{
   font-size: 150%;
 }
 
-selector_8{
+div > div > div{
   display: block;
   height: 95%;
   width: 95%;
