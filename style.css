@@ -54,10 +54,10 @@ div > div > div{
   background-color: blue;
 }
 
-#board > .cell:nth-last-child(2){
+#board > .cell:nth-child(odd){
   background-color: black;
 }
 
-selector_10{
+img:hover, div>div>div:hover{
   border: solid yellow thin;
 }
