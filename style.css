@@ -54,7 +54,7 @@ div > div > div{
   background-color: blue;
 }
 
-selector_9{
+#board > .cell:nth-last-child(2){
   background-color: black;
 }
 
