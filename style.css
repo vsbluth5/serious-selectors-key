@@ -14,18 +14,18 @@ h1{
   font-size: 15px;
 }
 
-h2+p{
+h2 + p{
   text-align: center;
   color: grey;
   font-size: 10px;
 }
 
-selector_5{
+div ~ p {
   text-align: center;
   text-decoration: underline;
 }
 
-selector_6{
+div > img{
   width: 95%;
   height: 95%;
   margin: auto;
